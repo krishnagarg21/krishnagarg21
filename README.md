@@ -22,7 +22,7 @@ Software Engineer in the making — comfortable across backend, full-stack, and 
 ---
 
 ### 📄 Resume & Links
-- **Resume:** [View Resume](https://drive.google.com/file/d/1ugNA39JZK2jSN3PRijFD3K7odmX7LhT5/view?usp=drive_link)
+- **Resume:** [View Resume](https://drive.google.com/file/d/1-AzpPZ3-kwOEHYN3tdFp2c3UQdyEqrsX/view)
 - **LinkedIn:** [linkedin.com/in/krishna-garg21](https://linkedin.com/in/krishna-garg21)
 - **Email:** [krishnagarga21@gmail.com](mailto:krishnagarga21@gmail.com)
 ---
